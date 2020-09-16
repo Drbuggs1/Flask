@@ -1,0 +1,42 @@
+div.head,
+div.posts {
+    text-align: center;
+}
+
+div.head h1 {
+    margin-top: 0%;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-size: 96px;
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+}
+
+div.head h2 {
+    font-size: 72px;
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+}
+
+div.posts h3 {
+    font-size: 48px;
+    margin-bottom: 15px;
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+}
+
+div.posts p {
+    font-size: 18px;
+    margin-bottom: 70px;
+    font-family: Consolas, monaco, monospace;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+body {
+    background-color: #1A1A1D;
+}
+
+div.head h1,
+div.head h2,
+div.posts h3,
+div.posts p {
+    color: #950740;
+}
